@@ -1,11 +1,14 @@
 package com.driver.model;
 
-public enum Facility {
 
-    GYM,
-    SWIMMING_POOL,
-    BAR,
-    FOOD,
-    PARKING,
-    LAUNDRY
-}
+
+    public enum Facility {
+
+        GYM,
+        SWIMMING_POOL,
+        BAR,
+        FOOD,
+        PARKING,
+        LAUNDRY
+    }
+
